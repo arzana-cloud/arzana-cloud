@@ -75,13 +75,14 @@ developer:
 
 ---
 
-## Featured Projects
+### Featured Projects
 
-| Project | Description | Stack |
+| Project | Description | Tech Stack |
 |---|---|---|
-| [Nama Proyek 1](https://github.com/arzana-cloud/nama-repo) | Deskripsi singkat satu kalimat | Python, OpenCV |
-| [Nama Proyek 2](https://github.com/arzana-cloud/nama-repo) | Deskripsi singkat satu kalimat | ESP32, MQTT |
-| [Nama Proyek 3](https://github.com/arzana-cloud/nama-repo) | Deskripsi singkat satu kalimat | Flutter, Node.js |
+| [AgroScan Leaf Classifier](https://github.com/arzana-cloud) | Platform pemindaian & klasifikasi otomatis penyakit tanaman berbasis Computer Vision | `Python` `TensorFlow` `OpenCV` `React` |
+| [Smart Access Mobile App](https://github.com/arzana-cloud) | Aplikasi mobile presensi digital  & fitur kamera pintar | `Flutter` `Google ML Kit` `Dart` |
+| [Gesture Light Control](https://github.com/arzana-cloud) | Sistem kendali sakelar lampu otomatis menggunakan deteksi gestur tangan real-time | `Python` `MediaPipe` `OpenCV` `ESP32` |
+| [Posture Analytics App](https://github.com/arzana-cloud) | Aplikasi deteksi & analisis postur tubuh manusia real-time untuk pemantauan posisi duduk/berdiri | `Flutter` `Google ML Kit` `OpenCV` |
 
 ---
 
