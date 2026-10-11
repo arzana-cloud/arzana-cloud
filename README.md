@@ -9,7 +9,7 @@
 <br/>
 
 D-IV Network Computer Engineering, Politeknik Negeri Lhokseumawe  
-Active Member, UKM-POLICY
+Pengurus & Organization Enthusiast, UKM-POLICY
 
 <br/>
 
