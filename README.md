@@ -109,7 +109,7 @@ developer:
 <div align="center">
 
 Email: [arzanaaulia220406@gmail.com](mailto:arzanaaulia220406@gmail.com)  
-LinkedIn: [linkedin.com/in/USERNAME-ANDA](https://www.linkedin.com/in/USERNAME-ANDA)  
+LinkedIn: [linkedin.com/in/Maulana-Aulia-Arzana](https://www.linkedin.com/in/Maulana-Aulia-Arzana)  
 GitHub: [github.com/arzana-cloud](https://github.com/arzana-cloud)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=Let's+build+something+impactful+together." alt="Closing line" />
