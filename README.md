@@ -98,7 +98,7 @@ developer:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arzana-cloud&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Activity graph" />
+<img src="https://ghchart.rshah.org/1F6FEB/arzana-cloud" width="100%" alt="Contribution graph" />
 
 </div>
 
