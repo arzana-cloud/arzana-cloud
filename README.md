@@ -1,28 +1,25 @@
-💐Resource flowers gift website for someone
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Maulana+Aulia+Arzana;Full-Stack+%26+AI+Developer;IoT+%26+Computer+Vision+Engineer" alt="Typing Header" />
+</h1>
 
-# Flowers for Someone 🌸
+<p align="center">
+  <b>🎓 Network Computer Engineering (TRKJ) @ Politeknik Negeri Lhokseumawe</b><br>
+  <b>✨ Active Member & Organization Enthusiast @ UKM-POLICY</b>
+</p>
 
-Welcome to Flowers for Someone! 🌼 This repository hosts the codebase for a charming website dedicated to the art of gifting flowers to your loved ones. Express your sentiments with the beauty of nature!
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:arzanaaulia220406@gmail.com"><img src="https://img.shields.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/arzana-cloud"><img src="https://img.shields.shields.io/github/followers/arzana-cloud?label=Followers&style=for-the-badge&color=238636" alt="Followers" /></a>
+</p>
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
+---
 
-## Introduction
+### 🚀 About Me
 
-Flowers for Someone is your ultimate destination for heartfelt floral gifting. Whether it's a special occasion or just to brighten someone's day, our website offers a delightful of flower arrangements, bouquets, and personalized messages.
-
-## Technologies Used
-
-This project utilizes the following programming languages and technologies:
-- HTML
-- CSS
-- SCSS (Sass)
-- JavaScript
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone this repository to your local machine:
+```yaml
+Name: Maulana Aulia Arzana
+Role: Full-Stack Developer | AI & Computer Vision Engineer | IoT Developer
+Location: Lhokseumawe, Aceh, Indonesia
+Focus: Scalable Web Apps, Edge AI, Computer Vision, & Embedded Systems
+Status: Open for Collaboration & Innovative Engineering Projects
