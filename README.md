@@ -13,7 +13,7 @@ Pengurus & Organization Enthusiast, UKM-POLICY
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/USERNAME-ANDA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/Maulana-Aulia-Arzana)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge)](mailto:arzanaaulia220406@gmail.com)
 [![Followers](https://img.shields.io/github/followers/arzana-cloud?label=Followers&style=for-the-badge&color=238636)](https://github.com/arzana-cloud)
 [![Profile Views](https://api.visitorbadge.io/api/visitors?path=arzana-cloud&label=Profile%20Views&labelColor=%23161B22&countColor=%231F6FEB&style=for-the-badge)](https://github.com/arzana-cloud)
